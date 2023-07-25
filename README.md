@@ -1,4 +1,6 @@
-# Devin Schulz's personal website
+# Aki's personal website
+
+Fork from https://devinschulz.com/, a very nice blog personal site.
 
 There are many websites out there, but this one is mine. 
 
